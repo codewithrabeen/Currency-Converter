@@ -18,3 +18,6 @@ It fetches **real-time exchange rates** from [ExchangeRate API](https://open.er-
 - **JavaScript (ES6)**  
 - **ExchangeRate API** for live data
 ---
+# Screenshot
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/fa0a4bf2-188d-455a-9f88-d80e6c0c84ab" />
+
